@@ -1,0 +1,20 @@
+{
+    "name": "jasmine-data-provider",
+    "version": "2.2.0",
+    "description": "simple data provider for jasmine",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MortalFlesh/jasmine-data-provider.git"
+    },
+    "keywords": [
+        "jasmine",
+        "data-provider"
+    ],
+    "author": "MortalFlesh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MortalFlesh/jasmine-data-provider/issues"
+    },
+    "homepage": "https://github.com/MortalFlesh/jasmine-data-provider"
+}

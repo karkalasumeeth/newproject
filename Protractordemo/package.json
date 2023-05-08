@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "protractor-beautiful-reporter": "^1.3.6",
+     "jasmine":"^4.5.0",
+     "protractor":"^7.0.0"
+
+  }
+}
